@@ -24,6 +24,11 @@ export default function Photos() {
             alt: "Asbury Park",
             href: "https://pixelfed.de/p/paz/628995059852172769",
           },
+          {
+            src: "/photos/photo3.jpg",
+            alt: "Henry",
+            href: "https://pixelfed.de/p/paz/496421766603645316",
+          },
         ]}
       />
     </section>
