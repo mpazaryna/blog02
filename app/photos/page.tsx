@@ -16,23 +16,14 @@ export default function Photos() {
         images={[
           {
             src: "/photos/photo1.jpg",
-            alt: "Roman columns",
+            alt: "Asbury Summer Night",
             href: "https://unsplash.com/photos/m0Rz5DCc4zY",
           },
-        ]}
-      />
-
-      <ImageGrid
-        columns={2}
-        images={[
-          { src: "/photos/photo1.jpg", alt: "Asbury Park" },
-        ]}
-      />
-
-      <ImageGrid
-        columns={4}
-        images={[
-          { src: "/photos/photo1.jpg", alt: "Roman columns" },
+          {
+            src: "/photos/photo2.jpg",
+            alt: "Asbury Park",
+            href: "https://pixelfed.de/p/paz/628995059852172769",
+          },
         ]}
       />
     </section>
