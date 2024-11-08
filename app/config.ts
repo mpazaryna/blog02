@@ -1,7 +1,7 @@
 export const metaData = {
   baseUrl: "https://blog.paz.land/",
-  title: "Log",
-  name: "Paz",
+  title: "paz.land",
+  name: "paz",
   ogImage: "/opengraph-image.png",
   description:
     "A clean, fast, and lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS for optimal performance.",
