@@ -10,21 +10,14 @@ export const projects: Project[] = [
     title: "Woodshed AI",
     year: 2023,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
+      "Learning In Public",
     url: "https://github.com/mpazaryna/woodshed-ai",
   },
   {
-    title: "Project Two",
+    title: "Yoga Teaching",
     year: 2022,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
-    url: "https://example.com/",
-  },
-  {
-    title: "Project Three",
-    year: 2021,
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
-    url: "https://example.com/",
+      "My Yoga teaching site.",
+    url: "https://yoga.paz.land/",
   },
 ];
