@@ -7,11 +7,11 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: "Project One",
+    title: "Woodshed AI",
     year: 2023,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
-    url: "https://example.com/",
+    url: "https://github.com/mpazaryna/woodshed-ai",
   },
   {
     title: "Project Two",
