@@ -3,6 +3,7 @@ export interface Project {
   year: number;
   description: string;
   url: string;
+  blog?: string;
 }
 
 export const projects: Project[] = [
@@ -10,14 +11,16 @@ export const projects: Project[] = [
     title: "Woodshed AI",
     year: 2023,
     description:
-      "Learning In Public",
+      "This is a project to help with alignment in software development.",
     url: "https://github.com/mpazaryna/woodshed-ai",
+    blog: "woodshed-ai",
   },
   {
-    title: "Yoga Teaching",
-    year: 2022,
+    title: "Alignment Application",
+    year: 2023,
     description:
-      "My Yoga teaching site.",
+      "A tool to help with alignment in software development.",
     url: "https://yoga.paz.land/",
+    blog: "alignment",
   },
 ];
